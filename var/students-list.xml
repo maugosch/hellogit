@@ -94,7 +94,12 @@
         <github> k4le0</github>
         <group> KrZZIs3011Io</group>
 </student>
-
-
+<student>
+        <firstname> Malgorzata</firstname>
+        <lastname> Kindrat</lastname>
+	<email> mk34694@gmail.com</email>
+	<github> maugosch</github>
+	<group> KrDZIs3011Io</group>
+</student>
 
 </students>
